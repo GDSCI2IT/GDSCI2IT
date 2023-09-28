@@ -10,7 +10,7 @@ The Google Developer Student Clubs (GDSC) are passionate about open source and e
 
 ## First Contribution Repository
 
-### [👉 First Contribution Repository](link_to_first_contribution_repo)
+### [👉 First Contribution Repository](https://github.com/GDSCI2IT/First-Contribution)
 
 🌟 *Learn GitHub Basics and Make Your First Contribution!* 🌟
 
@@ -34,5 +34,9 @@ If you're new to GitHub, don't worry! We have detailed tutorials and a friendly 
 - Connect with us on [Discord](link_to_discord) for support and collaboration.
 - Let's make October awesome by contributing to open source!
 
+
+
 ![Hacktoberfest Footer](https://hacktoberfest.digitalocean.com/assets/2022/img/hacktoberfest-footer.54be329.png)
 <center><img src="https://hacktoberfest.com/_next/static/media/logo-hacktoberfest--horizontal.ebc5fdc8.svg"/></center>
+
+
