@@ -2,7 +2,7 @@
 
 # Welcome to GDSC Hacktoberfest 2023 🚀
 
-![Hacktoberfest Logo](https://hacktoberfest.digitalocean.com/assets/2022/img/logo-hacktoberfest-full.f42e3b1.svg)
+![Hacktoberfest Logo](https://hacktoberfest.digitalocean.com/assets/2022/img/logo-hacktoberfest-full.f42e3b1.svg](https://hacktoberfest.com/_next/static/media/logo-hacktoberfest--horizontal.ebc5fdc8.svg))
 
 ## About Us
 
