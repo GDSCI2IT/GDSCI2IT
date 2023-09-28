@@ -27,16 +27,12 @@ If you're new to GitHub, don't worry! We have detailed tutorials and a friendly 
 
 ## Join the Hacktoberfest Fun!
 
-![Hacktoberfest Banner](https://hacktoberfest.digitalocean.com/assets/2022/img/hacktoberfest-full.1a65224.png)
-
 - Register at [Hacktoberfest](https://hacktoberfest.digitalocean.com/).
-- Explore our [First Contribution Repository](link_to_first_contribution_repo).
+- Explore our [First Contribution Repository](/First-Contribution).
 - Connect with us on [Discord](link_to_discord) for support and collaboration.
 - Let's make October awesome by contributing to open source!
 
 
-
-![Hacktoberfest Footer](https://hacktoberfest.digitalocean.com/assets/2022/img/hacktoberfest-footer.54be329.png)
-<center><img src="https://hacktoberfest.com/_next/static/media/logo-hacktoberfest--horizontal.ebc5fdc8.svg"/></center>
+<center><img align="center" src="https://hacktoberfest.com/_next/static/media/logo-hacktoberfest--horizontal.ebc5fdc8.svg"/></center>
 
 
