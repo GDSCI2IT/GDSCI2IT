@@ -1,6 +1,6 @@
 <!-- Hacktoberfest 2023 - GDSC GitHub Landing Page -->
 
-# Welcome to GDSC Hacktoberfest 2023 🚀
+# GDSC I2IT welcomes you to Hacktoberfest 2023 🚀
 ![Hacktoberfest Logo](hack.jpg)
 ![Hacktoberfest Logo](https://hacktoberfest.com/_next/static/media/logo-hacktoberfest--horizontal.ebc5fdc8.svg)
 
