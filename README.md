@@ -29,7 +29,7 @@ If you're new to GitHub, don't worry! We have detailed tutorials and a friendly 
 
 - Register at [Hacktoberfest](https://hacktoberfest.digitalocean.com/).
 - Explore our [First Contribution Repository](/First-Contribution).
-- Connect with us on [Discord](link_to_discord) for support and collaboration.
+- Connect with us [here](https://linktr.ee/gdsci2it) for support and collaboration.
 - Let's make October awesome by contributing to open source!
 
 
