@@ -10,7 +10,7 @@ The Google Developer Student Clubs (GDSC) are passionate about open source and e
 
 ## First Contribution Repository
 
-### [👉 First Contribution Repository](/First-Contribution)
+### [👉 First Contribution Repository](../First-Contribution)
 
 🌟 *Learn GitHub Basics and Make Your First Contribution!* 🌟
 
