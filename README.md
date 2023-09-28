@@ -2,7 +2,7 @@
 
 # GDSC I2IT welcomes you to Hacktoberfest 2023 🚀
 ![Hacktoberfest Logo](hack.jpg)
-![Hacktoberfest Logo](https://hacktoberfest.com/_next/static/media/logo-hacktoberfest--horizontal.ebc5fdc8.svg)
+
 
 ## About Us
 
@@ -35,3 +35,4 @@ If you're new to GitHub, don't worry! We have detailed tutorials and a friendly 
 - Let's make October awesome by contributing to open source!
 
 ![Hacktoberfest Footer](https://hacktoberfest.digitalocean.com/assets/2022/img/hacktoberfest-footer.54be329.png)
+<center>![Hacktoberfest Logo](https://hacktoberfest.com/_next/static/media/logo-hacktoberfest--horizontal.ebc5fdc8.svg)</center>
