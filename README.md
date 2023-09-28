@@ -28,7 +28,7 @@ If you're new to GitHub, don't worry! We have detailed tutorials and a friendly 
 ## Join the Hacktoberfest Fun!
 
 - Register at [Hacktoberfest](https://hacktoberfest.digitalocean.com/).
-- Explore our [First Contribution Repository](/First-Contribution).
+- Explore our [First Contribution Repository](https://github.com/GDSCI2IT/First-Contribution)
 - Connect with us [here](https://linktr.ee/gdsci2it) for support and collaboration.
 - Let's make October awesome by contributing to open source!
 
