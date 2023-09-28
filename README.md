@@ -35,11 +35,4 @@ Hacktoberfest is a month-long celebration of open source software. It encourages
 Learn more about Hacktoberfest [here](https://hacktoberfest.digitalocean.com/).
 
 <!-- Getting Started -->
-## Getting Started
-Follow these steps to get started with Hacktoberfest:
 
-1. Fork this repository.
-2. Clone your forked repository to your local machine.
-3. Create a new branch for your contribution:
-   ```bash
-   git checkout -b your-feature
