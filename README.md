@@ -35,4 +35,5 @@ If you're new to GitHub, don't worry! We have detailed tutorials and a friendly 
 
 <div style="text-align: center;"><img align="center" src="https://hacktoberfest.com/_next/static/media/logo-hacktoberfest--horizontal.ebc5fdc8.svg"/></div>
 
-<a href="https://github.com/GDSCI2IT/Projects" ><h2>Projects accepted for Contribution</h2></a>
+
+## [ Projects avilable for contribution](https://github.com/GDSCI2IT/Projects)
